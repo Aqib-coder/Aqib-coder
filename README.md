@@ -53,7 +53,7 @@ developing responsive front-end solutions using React.js. Proficient in Explorat
 
 
 ### 📈 Leetcode Stats:
-![LeetCode Stats](https://leetcode.com/u/Aqib_Ali/?theme=dark&font=Montserrat&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aqib_ali?theme=dark&font=Montserrat&ext=contest)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
