@@ -51,11 +51,9 @@ developing responsive front-end solutions using React.js. Proficient in Explorat
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mwarsi2784&theme=gotham&hide_border=false&card_width=495)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mwarsi2784&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&card_width=495&access_token=MY_GITHUB_TOKEN)
 
-### 📈 Codeforces Stats:
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mwarsi2784&theme=gotham)
 
 ### 📈 Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/mwarsi2784?theme=dark&font=Montserrat&ext=contest)
+![LeetCode Stats](https://leetcode.com/u/Aqib_Ali/?theme=dark&font=Montserrat&ext=contest)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
