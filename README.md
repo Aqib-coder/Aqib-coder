@@ -12,7 +12,7 @@ developing responsive front-end solutions using React.js. Proficient in Explorat
 <p>
 <a href="https://leetcode.com/mwarsi2784" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetCode&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
 <a href="https://www.linkedin.com/in/mwarsi2784" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
-<a href="https://cses.fi/user/216850" target="blank"><img align="center" src="https://img.shields.io/badge/CSES-0099FF?style=flat-square&logo=github&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
+
 </p>
 
 ### 💻 Languages:
