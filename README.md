@@ -10,8 +10,8 @@ developing responsive front-end solutions using React.js. Proficient in Explorat
   
 ### 🌐 Socials:
 <p>
-<a href="https://leetcode.com/mwarsi2784" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetCode&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
-<a href="https://www.linkedin.com/in/mwarsi2784" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
+<a href="https://leetcode.com/Aqib_shah" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetCode&logoColor=white" alt="Aqib_shah" height="25" width="55" /></a>
+<a href="https://www.linkedin.com/in/aqib- shah-634473234" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="mwarsi2784" height="25" width="55" /></a>
 
 </p>
 
